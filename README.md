@@ -10,6 +10,7 @@ Pour Toulouse, un moussaillon avait fait un PDF qui recense quelques endroits po
 maintenable et à mettre à jour. 
 
 #Description
+
 ## Principe du projet
 
 La plate-forme doit permettre de :
@@ -53,10 +54,12 @@ Elargir au espace de coworking payant et propose des partenariat de mise en avan
 - Parce que l'offre existante est partielle et très localisé et pas ou peu partagé
 - Parce que l'offre existante n'est pas exhaustive
 - Parce que l'on connait pas forcément les services proposés
-- Parce que tu cherches le meilleur qualité/prix, pourquoi payer 200€/mois sit cela peut être gratuit et tout aussi bien
+- Parce que tu cherches le meilleur qualité/prix, pourquoi payer 200€/mois si cela peut être gratuit et tout aussi bien ?
 - Parce que tu as envie de connaïtre Toulouse ou des toulousains
 
 
 # Définition
 ## un tiers-lieux c'est quoi ?
 Ils peuvent prendre la forme d’*espace de travail partagés* (appelés aussi « coworking »), d’*ateliers partagés*, de *fablab* (laboratoire de fabrication) et accueillir des *services hybrides* tels que des salles de réunions, des jardins partagés, des boutiques partagées, des cafés, des épiceries, des ressourceries, des espaces de méditation culturelle et bien d’autres.
+
+Sinon, tu peux suivre cette vidéo [ici](https://youtu.be/_z8TEKzwrSY)
